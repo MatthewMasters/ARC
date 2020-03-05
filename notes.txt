@@ -1,0 +1,8 @@
+Priors
+Establish all of the following:
+Is the input and output grid the same size? for all examples?
+
+
+
+the question should be framed as:
+Why does the output look like the input. For every logical reason that an output would look like an input corresponds to an action that can be performed on the input.
